@@ -1,0 +1,462 @@
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csprojAssemblyReference.cache
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmADMIN.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKSachMuonTL.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKTraTre.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmChangePassword.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmChiTietPM.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmDocGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmSach.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTacGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThayDoiQuiDinh.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTheLoai.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemDocGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.FrmLogin.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.FrmMain.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemLoaiDocGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemPhieuMuon.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemSach.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTacGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTheLoai.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTraSach.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTCaNhan.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTTraSach.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmDSPhieuPhat.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.Properties.Resources.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.ReportBCTKTraTre.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.ReportMuonTL.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.GenerateResource.cache
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.exe.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.exe
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_GUI.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_BUS.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DAO.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\QLTV_DTO.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmLoaiDocGia.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTMuonSach.resources
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.exe.licenses
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CopyComplete
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.exe
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_GUI\obj\Debug\QLTV_GUI.pdb
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_GUI.exe.config
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_GUI.exe
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_GUI.pdb
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Data.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\EntityFramework.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_BUS.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DAO.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DTO.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_BUS.pdb
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_BUS.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DAO.pdb
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DAO.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DTO.pdb
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\QLTV_DTO.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Data.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\EntityFramework.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.csprojAssemblyReference.cache
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmADMIN.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKSachMuonTL.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmBCTKTraTre.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmChangePassword.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmChiTietPM.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmDocGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmLoaiDocGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmSach.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmTacGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThayDoiQuiDinh.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmTheLoai.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemDocGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.FrmLogin.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.FrmMain.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemLoaiDocGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemPhieuMuon.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemSach.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTacGia.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTheLoai.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmThemTraSach.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTCaNhan.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTMuonSach.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmTTTraSach.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.frmDSPhieuPhat.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.Properties.Resources.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.ReportBCTKTraTre.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.ReportMuonTL.resources
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.GenerateResource.cache
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.exe.licenses
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.csproj.CopyComplete
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.exe
+D:\QuanLyThuVien_KNPM\QLTV_GUI\obj\Debug\QLTV_GUI.pdb

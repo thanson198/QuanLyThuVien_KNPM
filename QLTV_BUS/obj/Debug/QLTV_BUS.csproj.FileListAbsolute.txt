@@ -1,0 +1,36 @@
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_BUS.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_BUS.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_BUS.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\EntityFramework.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DAO.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DTO.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DAO.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DAO.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DTO.pdb
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\QLTV_DTO.dll.config
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\EntityFramework.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\obj\Debug\QLTV_BUS.csprojAssemblyReference.cache
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CopyComplete
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\obj\Debug\QLTV_BUS.dll
+D:\HỌC TẬP\HocOnline\Library_Management-master\QLTV_BUS\obj\Debug\QLTV_BUS.pdb
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_BUS.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_BUS.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_BUS.pdb
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\EntityFramework.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DAO.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DTO.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DAO.pdb
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DAO.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DTO.pdb
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\QLTV_DTO.dll.config
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\EntityFramework.xml
+D:\QuanLyThuVien_KNPM\QLTV_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyThuVien_KNPM\QLTV_BUS\obj\Debug\QLTV_BUS.csprojAssemblyReference.cache
+D:\QuanLyThuVien_KNPM\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien_KNPM\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CopyComplete
+D:\QuanLyThuVien_KNPM\QLTV_BUS\obj\Debug\QLTV_BUS.dll
+D:\QuanLyThuVien_KNPM\QLTV_BUS\obj\Debug\QLTV_BUS.pdb
